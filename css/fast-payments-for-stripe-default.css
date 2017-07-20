@@ -1,0 +1,52 @@
+.fast_payments_for_stripe_admin_label {
+    width:160px;
+    display: inline-block;
+    margin-left: 10px;
+    color: #292e31;
+}
+.fast_payments_for_stripe_admin_textbox_small {
+	width:80px;	
+}
+.fast_payments_for_stripe_admin_textbox_medium {
+	width:300px;	
+}
+.fast_payments_for_stripe_admin_textbox_url {
+	width:500px;	
+}
+.fast_payments_for_stripe_margin_left_zero {
+	margin-left: 0px;
+}
+.fast_payments_for_stripe_boxed {
+	margin-top: 10px;
+	border: 1px solid #DFE4DF ;
+	min-width: 700px;
+	max-width: 1000px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #EDEFF1;
+}
+.fast_payments_for_stripe_boxed_alert {
+	margin-top: 10px;
+	border: 1px solid #AF8492 ;
+	min-width: 700px;
+	max-width: 1000px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #EDEFF1;
+}
+.fast_payments_for_stripe_help {
+	padding-left: 175px;
+	color: #888!important;
+  font-size: 12px!important;
+}
+.fast_payments_for_stripe_shortcode_label {
+    display: inline-block;
+    margin-left: 10px;
+    color: #292e31;
+	  font-weight : bold;
+}
+.fast_payments_for_stripe_shortcode_desc {
+    display: inline-block;
+    margin-left: 10px;
+    color: #292e31;
+}

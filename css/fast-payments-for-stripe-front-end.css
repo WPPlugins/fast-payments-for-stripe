@@ -1,0 +1,17 @@
+.fast_payments_for_stripe_receipt_success { 
+	background-color: #B7DAA8;
+	border: 1px dashed #000000 ;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.fast_payments_for_stripe_receipt_fail { 
+	background-color: #E28484;
+	border: 1px dashed #000000 ;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.fast_payments_for_stripe_alert { 
+	color: red;
+}
